@@ -3,7 +3,7 @@ package devops;
 public class sample1 {
 
 	public static void main(String[] args) {
-		System.out.println("*S");
+		System.out.println("**");
 
 	}
 
